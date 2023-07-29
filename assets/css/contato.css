@@ -22,3 +22,23 @@
   font-weight: 300;
   margin: 1rem 0;
 }
+
+.contato__email {
+  border: 1px solid var(--azul);
+  border-radius: 24px;
+  padding: 1rem;
+  width: 90%;
+  color: var(--azul);
+}
+
+.contato__email::placeholder {
+  font-family: var(--fonte-padrao);
+  font-size: 1rem;
+  color: var(--azul);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  background-image: url(../img/Email.svg);
+  background-repeat: no-repeat;
+  padding-left: 2rem;
+}
