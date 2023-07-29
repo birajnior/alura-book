@@ -4,15 +4,20 @@
 @import url("../css/topicos.css");
 @import url("../css/contato.css");
 @import url("../css/rodape.css");
+
+/* Fontes */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;700&display=swap");
 
 :root {
   --cor-de-fundo: #f7f7f7;
   --branco: #ffffff;
   --laranja: #eb9b00;
-  --fonte-padrao: "Poppins", sans-serif;
   --azul-degrade: linear-gradient(160deg, #002f52 0%, #326589 100%);
   --azul: #002f52;
+  --preto: #000000;
+  --fonte-padrao: "Poppins", sans-serif;
+  --fonte-secundaria: "Josefin Sans", sans-serif;
 }
 
 body,
