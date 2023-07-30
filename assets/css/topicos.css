@@ -29,3 +29,24 @@
   font-size: 0.875rem;
   font-weight: 700;
 }
+
+@media screen and (min-width: 1024px) {
+  .topicos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .topicos__titulo {
+    font-size: 1.5rem;
+  }
+
+  .topicos__lista {
+    width: 70%;
+  }
+
+  .topicos__link {
+    font-size: 1.5rem;
+  }
+}
