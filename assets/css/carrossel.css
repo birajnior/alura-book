@@ -13,12 +13,7 @@
 
 .swiper-slide img {
   width: 100%;
-  box-shadow: 14px 10px 4px -8px rgba(0,0,0,0.25)
-}
-
-.swiper-button-prev,
-.swiper-button-next {
-  display: none;
+  box-shadow: 14px 10px 4px -8px rgba(0, 0, 0, 0.25);
 }
 
 .swiper-pagination {
@@ -90,12 +85,6 @@
 
   .swiper {
     width: 80%;
-  }
- 
-  .swiper-button-next,
-  .swiper-button-prev {
-    display: block;
-    top: 60%;
   }
 
   .card {
