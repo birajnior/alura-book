@@ -36,7 +36,5 @@ Começamos montando a estrutura mobile e partir dai famos fazendo os ajustes par
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: 2023 - Alura Book
-
 ## Referência de README
 [Diana Regina](https://gist.github.com/reginadiana/e044fe93ed81aa04a10361cb841c0409#file-readme-template-md)
